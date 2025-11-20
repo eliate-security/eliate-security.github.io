@@ -1,0 +1,33 @@
+<svg width="110" height="24" viewBox="0 0 110 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.cdnfonts.com/css/geist-mono');
+    .text { 
+      font-family: 'Geist Mono', monospace; 
+      font-weight: 700; 
+      font-size: 18px; 
+      fill: #000000;
+      letter-spacing: -0.025em;
+    }
+  </style>
+  
+  <!-- Vertical centering group: (24 - 20) / 2 = 2 offset for the box -->
+  <g transform="translate(0, 2)">
+    <!-- Icon Box: 20x20 -->
+    <rect width="20" height="20" fill="black"/>
+    
+    <!-- Chevron -->
+    <!-- 
+       Target: 10x10 centered in 20x20
+       Scale: 10/24 = 0.416667
+       Offset: (20 - 10) / 2 = 5
+    -->
+    <g transform="translate(5, 5) scale(0.416667)">
+      <path d="M6 10L12 4L18 10" stroke="white" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+    </g>
+  </g>
+
+  <!-- Text -->
+  <!-- x = 20px box + 8px gap = 28px -->
+  <!-- y = 50% (12px) + slight optical adjustment -->
+  <text x="28" y="14" dominant-baseline="middle" class="text">eliate.</text>
+</svg>
