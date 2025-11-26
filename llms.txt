@@ -1,0 +1,70 @@
+# eliate | fractional security engineering
+
+## Security as Craftsmanship
+eliate provides fractional security engineering. We embed a staff-level security engineer into your Slack, GitHub, and Cloud. We give high-velocity teams the expertise to ship complex systems securely, without the full-time headcount.
+
+## The Model
+
+### Consultant
+Provides external advice that is often theoretical. Lacks the deep context of your codebase and operational realities.
+
+### Full-Time Hire
+Total immersion and hands-on execution, but often an excessive commitment and cost for early-stage security maturity.
+
+### Fractional Security Engineer
+Embedded expertise. We integrate directly into your engineering teams to provide staff-level leverage without the full-time headcount.
+Security belongs in the pull request, not the slide deck. By operating within your technology stack, we provide consistent, high-leverage expertise that scales with your development velocity.
+
+## The Philosophy
+We approach security not as a checklist, but as a **quality attribute** of elegant engineering.
+
+### 01. Velocity as Security
+Friction implies safety, but velocity demands precision. We build the guardrails that enable rapid deployment, ensuring that security accelerates your roadmap rather than arresting it.
+
+### 02. Engineering First
+Effective governance is written in code, not prose. We express security controls through Terraform and CI/CD pipelines, embedding compliance directly into the infrastructure layer.
+
+### 03. Precision Impact
+Senior engineering guidance requires clarity, not volume. We provide focused, high-signal direction that resolves complexity, delivering specialised architectural guidance that is often hard to hire for full-time.
+
+## Capabilities
+Deep focus areas.
+
+### 01 Security Programme
+- SOC2 Readiness
+- Strategy & Roadmap
+- Secure SDLC Design
+- Architecture Review
+
+### 02 Cloud Engineering
+- AWS Hardening
+- IAM Architecture
+- Infrastructure as Code
+- Container Security
+
+### 03 Product Security
+- AppSec Reviews
+- DevSecOps Pipelines
+- Threat Modelling
+- Secret Management
+
+## Fractional Security Engineer
+"With a decade of experience spanning deep telecoms research to high-velocity gaming startups, I view security as an integral component of system reliability."
+
+Traditional advisory often separates strategy from execution. eliate. was founded to bridge that gap. I believe that the most effective security roadmap is one that accounts for the nuances of your specific architecture.
+
+**I am an engineer first.** True value lies in implementation, refining IAM policies in Terraform, designing authentication flows alongside your developers, and treating security as a feature of your product quality.
+
+When you engage with eliate., you are not hiring a roster. You are partnering directly with the craft.
+
+~ Richard Clarke
+
+## Contact
+Engineering with Security.
+
+Currently accepting enquiries for Q1 2026.
+Retainers tailored to your velocity, starting from 1 day/week.
+
+Email: richard@eliate.com
+LinkedIn: https://www.linkedin.com/company/eliate-security
+GitHub: https://github.com/eliate-security
