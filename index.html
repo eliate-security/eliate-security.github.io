@@ -39,30 +39,40 @@
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "ProfessionalService",
-      "name": "eliate",
-      "image": "https://eliate.com/logo.png",
-      "url": "https://eliate.com",
-      "email": "richard@eliate.com",
-      "priceRange": "$$$",
-      "description": "eliate provides fractional security engineering services, embedding staff-level expertise into engineering teams.",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Perth",
-        "addressRegion": "WA",
-        "addressCountry": "AU"
-      },
-      "founder": {
-        "@type": "Person",
-        "name": "Richard Clarke"
-      },
-      "areaServed": "Global",
-      "sameAs": [
-        "https://www.linkedin.com/company/eliate-security",
-        "https://www.linkedin.com/in/-rsclarke/",
-        "https://github.com/eliate-security",
-        "https://github.com/rsclarke",
-        "https://x.com/rsclarke"
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "eliate",
+          "alternateName": "eliate security",
+          "url": "https://eliate.com/"
+        },
+        {
+          "@type": "ProfessionalService",
+          "name": "eliate",
+          "image": "https://eliate.com/logo.png",
+          "url": "https://eliate.com",
+          "email": "richard@eliate.com",
+          "priceRange": "$$$",
+          "description": "eliate provides fractional security engineering services, embedding staff-level expertise into engineering teams.",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Perth",
+            "addressRegion": "WA",
+            "addressCountry": "AU"
+          },
+          "founder": {
+            "@type": "Person",
+            "name": "Richard Clarke"
+          },
+          "areaServed": "Global",
+          "sameAs": [
+            "https://www.linkedin.com/company/eliate-security",
+            "https://www.linkedin.com/in/-rsclarke/",
+            "https://github.com/eliate-security",
+            "https://github.com/rsclarke",
+            "https://x.com/rsclarke"
+          ]
+        }
       ]
     }
     </script>
